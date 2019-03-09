@@ -4,7 +4,7 @@
 A custom dark theme for ESEA.net.
 
 ## Installation
-This is just a `style.css` file so you would install as you typically would with a browser extension such as Stylish. [You can install it here on my UserStyles page.](https://userstyles.org/styles/140398/esea-dark-theme-updated-for-2018?utm_campaign=stylish_stylepage)
+This is just a `style.css` file so it's installed as you would typically expect, with a browser extension such as Stylish. [You can install it from my UserStyles page here.](https://userstyles.org/styles/140398/esea-dark-theme-updated-for-2018?utm_campaign=stylish_stylepage)
 
 ## Hey, the theme isn't working as expected?
 I'm sadly just not as active as I used to be on ESEA, meaning that I might not pick up on bugs or theme-breaking changes from ESEA as fast as others. If something changes that breaks this theme or you notice a bug, I encourage you to leave an issue on the issue tracker [here](https://github.com/Snaacky/ESEA-Dark-Theme/issues/new) so that I can continue to update and maintain the theme.
