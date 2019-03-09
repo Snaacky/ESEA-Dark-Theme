@@ -1,3 +1,5 @@
+<img src="https://userstyles.org/style_screenshots/140398_after.jpeg?r=1551948645" style="width:352px; height:240px">
+
 # ESEA-Dark-Theme
 A custom dark theme for ESEA.net.
 
